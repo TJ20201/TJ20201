@@ -1,6 +1,9 @@
-Hello! I'm partially a web developer and a Minecraft mod developer. <br>
+Hello! I'm a developer for multiple languages, currently learning how to make Android applications. <br>
 The [`languages`](#languages) and [`social`](#social) sections were made using the HTML element "code". The format used is: <br>`<code><img src="picture" width="width" height="height"> <b>name</b></code>`, which would output something like the following: <br><code><img src="picture" width="20" height="20"> <b>name</b></code>.
 
+![Python Developer](https://img.shields.io/badge/Python-Developer-yellowgreen)
+![Java Developer](https://img.shields.io/badge/Java-Developer-orange)
+![HTML Developer](https://img.shields.io/badge/HTML-Developer-red)
 
 ## Languages
 [<code><img src="https://tinycode.hk/wp-content/uploads/2015/01/java-logo-png-300x300.png" width="25" height="25"> <b>Java</b></code>](https://oracle.com/java)
