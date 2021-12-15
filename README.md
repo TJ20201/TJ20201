@@ -1,4 +1,4 @@
-Hello! I'm a developer for multiple languages, currently learning how to make Android applications. <br>
+Hello! I'm a developer for multiple languages, currently learning more Java. <br>
 The [`languages`](#languages) and [`social`](#social) sections were made using the HTML element "code". The format used is: <br>`<code><img src="picture" width="width" height="height"> <b>name</b></code>`, which would output something like the following: <br><code><img src="picture" width="20" height="20"> <b>name</b></code>.
 
 ![Python Developer](https://img.shields.io/badge/Python-Developer-yellowgreen)
