@@ -12,5 +12,5 @@ The [`languages`](#languages) and [`social`](#social) sections were made using t
 [<code><img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="25" height="25"> <b>Python</b></code>](https://www.python.org/)
 
 ## Social
-[<code><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="25" height="25"> <b>TJ20201#1743</b></code>](https://discord.com/)
+[<code><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="25" height="25"> <b>TJ (GMT)#8065</b></code>](https://discord.com/)
 []() <!-- blank for future usage -->
